@@ -22,7 +22,6 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
-  <a href="#license">License</a> •
   <a href="#contact">Contact</a>
 </p>
 
@@ -80,9 +79,6 @@ This software uses the following open source packages:
 - [DevTeamTask-Frontend](https://gitlab.com/Talismar/devteamtask-front) - A task management software for development team
 - [DevTeamTask-Figma](https://www.figma.com/file/93HpbAt9qbG8F41DQERB37/DevTeamTask-%7C-PI-02?type=design&mode=design&t=DoRfhoPhuCJtCq7Q-1) - A task management software for development team
 
-## License
-
-MIT
 
 ---
 
