@@ -36,12 +36,3 @@ def write_devteamtask_json(key: str, value: str | dict):
     with open("devteamtask.json", "w") as outfile:
         outfile.write(json_object)
         outfile.close()
-
-
-# write_devteamtask_json(
-#     "credentials",
-#     {
-#         "username": "talismar",
-#         "password": "admin123",
-#     },
-# )
